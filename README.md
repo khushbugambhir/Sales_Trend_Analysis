@@ -1,5 +1,6 @@
 
 The objective of this task is to analyze monthly sales trends by calculating monthly revenue and order volume using SQL aggregation functions. A synthetic sales dataset was used for this analysis.
+
 The dataset contains the following columns:
 - order_id
 - order_date
